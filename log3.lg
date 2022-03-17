@@ -1,0 +1,29 @@
+Received: HOST: DESKTOP-IBHNGNCP_Name: 
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+APSDaemon.exe                 4108 Console                    1     18,956 K
+, PID: 4108, TIME: 8/23/2018 3:9 from ('127.0.0.1', 52809)Received: HOST: DESKTOP-IBHNGNCP_Name: 
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+ApplePhotoStreams.exe         1448 Console                    1     37,600 K
+, PID: 1448, TIME: 8/23/2018 3:9 from ('127.0.0.1', 52814)Received: HOST: DESKTOP-IBHNGNCP_Name: 
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+AppleIEDAV.exe               11536 Console                    1     44,944 K
+, PID: 11536, TIME: 8/23/2018 3:16 from ('127.0.0.1', 52825)Received: HOST: DESKTOP-IBHNGNCP_Name: 
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+iCloudDrive.exe              17104 Console                    1     37,140 K
+, PID: 17104, TIME: 8/23/2018 3:16 from ('127.0.0.1', 52826)Received: HOST: DESKTOP-IBHNGNCP_Name: 
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+MicrosoftEdgeCP.exe           7548 Console                    1     23,524 K
+, PID: 7548, TIME: 8/23/2018 12:4 from ('127.0.0.1', 54132)Received: HOST: DESKTOP-IBHNGNCP_Name: 
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+MicrosoftEdgeCP.exe          14184 Console                    1    126,924 K
+, PID: 14184, TIME: 8/23/2018 12:25 from ('127.0.0.1', 54352)Received: HOST: DESKTOP-IBHNGNCP_Name: 
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+MicrosoftEdgeCP.exe           1288 Console                    1     25,672 K
+, PID: 1288, TIME: 8/23/2018 12:25 from ('127.0.0.1', 54353)
